@@ -1,5 +1,4 @@
 # Hi, I'm Hasnain Shahriar 👋
-
 ┌───────────────────────────────────────────────────────┐
 │ SYSTEM PROFILE │
 ├───────────────────────────────────────────────────────┤
@@ -10,8 +9,6 @@
 │ Language : Python, HTML, CSS, JavaScript │
 │ Status : Learning & Building │
 └───────────────────────────────────────────────────────┘
-
-
 Learning step by step. Building one project at a time. Turning ideas into code.
 
 ---
